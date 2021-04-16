@@ -12,13 +12,18 @@
 
 - 💻 Estou estudando atualmente **Java, MySQL, C, HTML, CSS**;
 - 😍 Apaixonado por tecnologias;
-- 🎼 Estudo violão e ukulele nas horas vagas;
 - 🔏 Estudo **Tecnicas de Invasão**;
 
+---
+
 **MEUS HOBBIES SÃO:**
-  * Assistir vídeos/séries
-  * 
-  
+
+  - 📺 Assistir vídeos/séries
+  - 🎼 Gosto de estudar violão e ukulele nas horas vagas;
+  - 🎮 As vezes um joguinho faz bem, não é mesmo ?!
+   
+--- 
+
 * 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 * 📫 Se quiser pode enviar um email para .
 * 📝 Veja meu <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/" target="_blank">Linkedin</a> para mais informações.
