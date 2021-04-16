@@ -27,7 +27,7 @@
 
 * 💬 Fique a vontade para me chamar, estou disponivel para ajudar ! ;
 * 📫 Se quiser pode enviar um email para juliocbarros339@gmail.com.
-* 📝 Veja meu <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/" target="_blank">Linkedin</a> para mais informações.
+* 📝 Veja meu <a href="https://www.linkedin.com/in/julio-cesar-3b751a1a7/" target="_blank">Linkedin</a> para mais informações.
 
 <div align="left">
 <span>
