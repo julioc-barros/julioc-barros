@@ -1,6 +1,11 @@
 ## Olá! Me chamo **Júlio Cesar**
 
-Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou apaixonado pela tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
+:round_pushpin: | Moro em Recife - PE :br: ;
+Desenrolado em tecnologia;
+Graduando em Ciências da Computação;
+Quero me tornar um **desenvolverdor Full Stack**
+Estudando atualmente -> **Java, MySQL, C, HTML, CSS**;
+Buscando me tornar um profissional cada vez mais completo;
 
 ---
 
@@ -11,6 +16,8 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 * 👾 Meus hobbies são: 
   * Assistir vídeos/séries
+  * 
+  
 * 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 * 📫 Se quiser pode enviar um email para .
 * 📝 Veja meu <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/" target="_blank">Linkedin</a> para mais informações.
