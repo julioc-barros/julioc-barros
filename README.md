@@ -29,6 +29,8 @@
 * 📫 Se quiser pode enviar um email para juliocbarros339@gmail.com.
 * 📝 Veja meu <a href="https://www.linkedin.com/in/julio-cesar-3b751a1a7/" target="_blank">Linkedin</a> para mais informações.
 
+---
+
 <div align="left">
 <span>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=julioc-barros&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Erik Nathan GitHub Stats"/>
@@ -44,7 +46,7 @@
 **LINGUAGENS EM ESTUDO:**
 
   <br>
-  <img align="left" alt="atqjunior-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="atqjunior-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original.svg">
   <img aign="left" alt="atqjunior-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="atqjunior-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
