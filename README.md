@@ -1,13 +1,13 @@
 ## Olá! Me chamo **Júlio Cesar**
 
 
- Moro em Recife - PE; 
-:stuck_out_tongue_closed_eyes: | Desenrolado em tecnologia; 
-:computer: | Graduando em Ciências da Computação; 
+ Moro em Recife - PE 
+:stuck_out_tongue_closed_eyes: | Desenrolado em tecnologia
+:computer: | Graduando em Ciências da Computação
 :balloon: | Quero me tornar um **desenvolverdor Full Stack** 
-🚀 | Buscando me tornar um profissional cada vez mais completo;
-Estudando atualmente -> **Java, MySQL, C, HTML, CSS**;
-Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou apaixonado pela tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
+🚀 | Buscando me tornar um profissional cada vez mais completo
+Estudando atualmente -> **Java, MySQL, C, HTML, CSS**
+
 
 🚀 Também sou designer e faço design gráfico para meu portfólio pessoal..
 
