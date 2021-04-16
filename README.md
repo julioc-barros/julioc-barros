@@ -64,10 +64,9 @@
 
 <br>
 
-![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=atqjunior&label=PROFILE+VIEWS&)
+![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=julioc-barros&label=PROFILE+VIEWS&)
 
 ---
-<br>
 
 >⭐️ | [Baseado](https://github.com/erik-nathan/) 
 
