@@ -1,6 +1,6 @@
 ## Olá! Me chamo **Júlio Cesar**
 
-:round_pushpin: | Moro em Recife - PE 🇧🇷 ;
+:round_pushpin: | Moro em Recife - PE 	&#127463;&#127479; ;
 Desenrolado em tecnologia;
 Graduando em Ciências da Computação;
 Quero me tornar um **desenvolverdor Full Stack**
