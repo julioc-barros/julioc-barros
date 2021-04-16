@@ -36,7 +36,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=julioc-barros&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Erik Nathan GitHub Stats"/>
 </span>
 <span>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=default&&langs_count=5&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioc-barros&layout=default&&langs_count=5&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
 </span>
 
 ---
