@@ -40,7 +40,6 @@
 </span>
 
 ---
-<br>
 
 **LINGUAGENS EM ESTUDO:**
 
