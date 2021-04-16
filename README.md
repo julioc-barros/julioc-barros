@@ -41,7 +41,6 @@
 
 ---
 <br>
-<<<<<<< HEAD
 
 **LINGUAGENS EM ESTUDO:**
 
