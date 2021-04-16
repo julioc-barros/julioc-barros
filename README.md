@@ -66,7 +66,7 @@
 
 ---
 
->⭐️[Baseado](https://github.com/erik-nathan/) <br>
->⭐️[IMG](https://github.com/devicons)
+>👉[Baseado](https://github.com/erik-nathan/) <br>
+>👉[Imagens](https://github.com/devicons)
 
 ---
