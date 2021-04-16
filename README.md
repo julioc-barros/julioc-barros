@@ -11,7 +11,6 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 * 👾 Meus hobbies são: 
   * Assistir vídeos/séries
-
 * 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 * 📫 Se quiser pode enviar um email para .
 * 📝 Veja meu <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/" target="_blank">Linkedin</a> para mais informações.
