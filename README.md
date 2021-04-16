@@ -9,7 +9,7 @@
 Estudando atualmente -> **Java, MySQL, C, HTML, CSS**
 
 
-🚀 Também sou designer e faço design gráfico para meu portfólio pessoal..
+
 
 ---
 
