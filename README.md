@@ -1,7 +1,7 @@
 ## Olá! Me chamo **Júlio Cesar**
 
 
-| Moro em Recife - PE; 
+ Moro em Recife - PE; 
 :stuck_out_tongue_closed_eyes: | Desenrolado em tecnologia; 
 :computer: | Graduando em Ciências da Computação; 
 :balloon: | Quero me tornar um **desenvolverdor Full Stack** 
