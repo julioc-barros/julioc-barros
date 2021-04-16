@@ -1,9 +1,8 @@
 ## Olá, tudo bem ? Me chamo **Júlio Cesar**
 
-
-:house: | Moro em **Recife - PE** <br>
-:computer: | Graduando em **Ciências da Computação** <br>
-:office: | Quero me tornar um **desenvolverdor Full Stack** <br>
+🏠 | Moro em **Recife - PE** <br>
+💻 | Graduando em **Ciências da Computação** <br>
+🏢 | Quero me tornar um **desenvolverdor Full Stack** <br>
 🚀 | Buscando me tornar um profissional cada vez mais completo
 
 ---
@@ -24,8 +23,10 @@
    
 --- 
 
-* 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-* 📫 Se quiser pode enviar um email para .
+**CONTATO:**
+
+* 💬 Fique a vontade para me chamar, estou disponivel para ajudar ! ;
+* 📫 Se quiser pode enviar um email para juliocbarros339@gmail.com.
 * 📝 Veja meu <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/" target="_blank">Linkedin</a> para mais informações.
 
 <div align="left">
