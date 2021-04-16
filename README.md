@@ -15,7 +15,7 @@
 - 🎼 Estudo violão e ukulele nas horas vagas;
 - 🔏 Estudo **Tecnicas de Invasão**;
 
-* 👾 Meus hobbies são: 
+**MEUS HOBBIES SÃO:**
   * Assistir vídeos/séries
   * 
   
