@@ -5,17 +5,14 @@
 :computer: | Graduando em **Ciências da Computação** <br>
 :office: | Quero me tornar um **desenvolverdor Full Stack** <br>
 🚀 | Buscando me tornar um profissional cada vez mais completo
-Estudando atualmente -> **Java, MySQL, C, HTML, CSS**
-
-
-
 
 ---
 
 **MEUS INTERESSES PESSOAIS:**
 
-- 👩‍💻 Estou estudando front-end com **javascript**, **HTML5** e **CSS3**, e me aventurando um pouco em **Java**;
-- 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 👩‍💻 Estou estudando atualmente **Java, MySQL, C, HTML, CSS**;
+- 💼 Apaixonado por tecnologias;
+- 
 
 * 👾 Meus hobbies são: 
   * Assistir vídeos/séries
