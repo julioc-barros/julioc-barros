@@ -45,15 +45,16 @@
 
 **LINGUAGENS EM ESTUDO:**
 
-  <br>
-  <img align="left" alt="atqjunior-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original.svg">
-  <img align="left" alt="atqjunior-MYSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg">
-  <img align="left" alt="atqjunior-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg">
-  <img align="left" alt="atqjunior-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="atqjunior-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<br>
+  <img align="left" alt="JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original.svg">
+  <img align="left" alt="MYSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original.svg">
+  <img align="left" alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg">
+  <img align="left" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<br>
 
 ---
-<br> 
+
 **PRINCIPAIS REDES SOCIAIS:**
 
 <br>
