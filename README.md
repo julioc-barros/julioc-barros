@@ -10,9 +10,10 @@
 
 **MEUS INTERESSES PESSOAIS:**
 
-- 👩‍💻 Estou estudando atualmente **Java, MySQL, C, HTML, CSS**;
-- 💼 Apaixonado por tecnologias;
-- 
+- 💻 Estou estudando atualmente **Java, MySQL, C, HTML, CSS**;
+- 😍 Apaixonado por tecnologias;
+- 🎼 Estudo violão e ukulele nas horas vagas;
+- 🔏 Estudo **Tecnicas de Invasão**;
 
 * 👾 Meus hobbies são: 
   * Assistir vídeos/séries
