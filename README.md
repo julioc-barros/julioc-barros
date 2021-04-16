@@ -2,8 +2,8 @@
 
 
 :round_pushpin: | Moro em **Recife - PE** <br>
-| Graduando em **Ciências da Computação** <br>
-| Quero me tornar um **desenvolverdor Full Stack** <br>
+:computer: | Graduando em **Ciências da Computação** <br>
+:office: | Quero me tornar um **desenvolverdor Full Stack** <br>
 🚀 | Buscando me tornar um profissional cada vez mais completo
 Estudando atualmente -> **Java, MySQL, C, HTML, CSS**
 
