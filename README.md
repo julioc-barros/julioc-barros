@@ -15,19 +15,11 @@
 
 ---
 
-**MEUS HOBBIES SÃO:**
-
-  - 📺 Assistir vídeos/séries
-  - 🎼 Gosto de estudar violão e ukulele nas horas vagas;
-  - 🎮 As vezes um joguinho faz bem, não é mesmo ?!
-   
---- 
-
 **CONTATO:**
 
 * 💬 Fique a vontade para me chamar, estou disponivel para ajudar ! ;
 * 📫 Se quiser pode enviar um email para juliocbarros339@gmail.com.
-* 📝 Veja meu <a href="https://www.linkedin.com/in/julio-cesar-3b751a1a7/" target="_blank">Linkedin</a> para mais informações.
+* 📝 Veja meu <a href="www.linkedin.com/in/julioc-barros" target="_blank">Linkedin</a> para mais informações.
 
 ---
 
