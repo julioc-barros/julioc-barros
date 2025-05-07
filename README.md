@@ -21,4 +21,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioc-barros&layout=compact&langs_count=8&theme=gotham"/>
 </span>
 
+<br/>
+
 <!-- ![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=julioc-barros&label=PROFILE+VIEWS&) -->
